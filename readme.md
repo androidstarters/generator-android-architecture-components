@@ -1,4 +1,6 @@
-# generator-android-architecture-components [![Build Status](https://travis-ci.org/ravidsrk/generator-android-architecture-components.svg?branch=master)](https://travis-ci.org/ravidsrk/generator-android-architecture-components) [![Coverage Status](https://coveralls.io/repos/github/ravidsrk/generator-android-architecture-components/badge.svg?branch=master)](https://coveralls.io/github/ravidsrk/generator-android-architecture-components?branch=master)
+# generator-android-architecture-components 
+
+[![Build Status](https://travis-ci.org/androidstarters/generator-android-architecture-components.svg?branch=master)](https://travis-ci.org/androidstarters/generator-android-architecture-components) [![Coverage Status](https://coveralls.io/repos/github/androidstarters/generator-android-architecture-components/badge.svg?branch=master)](https://coveralls.io/github/androidstarters/generator-android-architecture-components?branch=master)
 
 > Generator to Create Android Apps using Android Architecture Components
 
@@ -65,4 +67,4 @@ $ generator-android-architecture-components --help
 
 ## License
 
-MIT © [Ravindra Kumar](https://github.com/ravidsrk/generator-android-architecture-components)
+MIT © [Ravindra Kumar](https://github.com/androidstarters/generator-android-architecture-components)
